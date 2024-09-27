@@ -1,6 +1,6 @@
 # Transistor Amplifier Design Project
 
-![alt text](https://github.com/VincentBot88/Transistor-Amplifier-Design-Project/blob/Transistor Amplifier Design.png?raw=true)
+![Amplifier Schematic](./Transistor Amplifier Design.png)
 
 Designed, simulated, analyzed, implemented, and tested a single-supply, multistage, inverting transistor amplifier.  
 Conducted calculations for resistance, capacitance, and biasing, and verified results through simulations.
